@@ -31,5 +31,5 @@ Este proyecto es una aplicación web sencilla para realizar un sorteo de "Amigo 
 - `app.js`: Contiene la lógica del programación
 
 ## Requisitos
-Navegador web compatible con JavaScript y el archivo fuente del código
+Navegador web compatible con JavaScript y el archivo fuente del código, el cual se puede descargar o clonar
 
